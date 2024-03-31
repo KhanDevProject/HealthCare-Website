@@ -1,7 +1,11 @@
 # Healthcare-Website
+To run the program(s):
+* Download the repo
+* Open it in your IDE (VSCODE) 
+* Run `browser-name index.html` or from your IDE. For example, `google-chrome index.html`
+* Enjoy!
 
-→ Personal project and creating templates to teach others. 
-
+# About the application 
 → A healthcare website designed mainly for doctors and hospitals who wants to have fast, reliable, and modern design website. 
 
 → Healthcare website that focuses on helping individuals in making informed decisions about their health and connecting them with appropriate healthcare resources.
